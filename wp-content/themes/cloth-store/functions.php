@@ -194,3 +194,8 @@ require get_template_directory() . '/inc/clothstore-options.php';
 Cloth Store Functions
 */
 require get_template_directory() . '/inc/clothstore-functions.php';
+
+
+
+
+/* require get_template_directory() . '/inc/clothstore-functions.php'; */
